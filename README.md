@@ -94,6 +94,7 @@ monitor or repair infrastructure in the background.
 - Replaced the container when changing the host port.
 - Detected and repaired a manual configuration change.
 - Confirmed no changes after reconciliation.
+- Destroyed and recreated the lab, then verified HTTP 200 and a no-change plan.
 
 ## Repository Files
 
